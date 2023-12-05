@@ -21,7 +21,7 @@
   - Entropy
   - Fractal Dimension
   - Correlation Dimension
-- ** Brain Connectivity** :
+- **Brain Connectivity** :
     - Structural Connectivity
     - Functional Connectivity:
        - Correlation Coefficient
@@ -37,18 +37,16 @@
             - Local Efficiency
             - Centrality and …
 
-- **Stochastic and robust optimization**:
-  - Optimization under uncertainty
-  - Risk averse optimization
-  - Optimization of infinite horizon time
-  - Lyapunov optimization
-  - Applications and use cases (Newsvendor problem, stock market analysis, stochastic networks, stable scheduling)
-- **Non-convex problems**:
-  - Regularization and Convexification
-  - Convex-Cardinality Problems
-  - Sequential convex programming
-  - Applications and use cases (learning, data fitting)
-- **Bandit Convex Optimization**:
-  - Applications in machine learning
-- **Large-scale optimization**. 
-  - Alternating direction method of multipliers (ADMM)
+- **Noises and Artifacts of Brain Signals and their Removal Method**:
+  - EMG, ECG, eye movement, electrode movement
+    - Blind Source Separation 
+      - PCA, ICA, CCA 
+    - Semi-Blind Source Separation 
+      - Denoising Source Separation(DSS)
+      - Generalized Eigenvalue Decomposition (GEVD)
+      - Tensor decomposition 
+- **Patterns of brain signals and their diagnosis methods**:
+    - Event Related Potential, P300
+    - Steady State Visual/Auditory Evoked Potential
+    - Event Related Synchronization & Desynchronization
+
