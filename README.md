@@ -1,5 +1,5 @@
 # EEGSignalProcessing, Graduate course
-## This repository includes all the practical assignments and the slide of the EEG Signal Processing graduate course.
+## This repository includes all the practical assignments and the slides of the EEG Signal Processing graduate course.
 
 
 - [HW1](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW1_prac): Linear Programming, Integer Programming
@@ -49,4 +49,36 @@
     - Event Related Potential, P300
     - Steady State Visual/Auditory Evoked Potential
     - Event Related Synchronization & Desynchronization
+- **Brain source localization**:
+    - Direct Problem
+    - Inverse Problem:
+        - Non-parametric:
+            - Bayesian Formulation
+            - Minimum Norm Estimate(MNE)
+            - Weighted MNE (WMNE)
+            - Low Resolution Electrical Tomography(LORETA)
+        - Parametric:
+            - MSE
+            - MUSIC
+- **Statistical tests**:
+    - kurtosis
+    - Skewness and …
+- **Some important applications**:
+    - Brain-computer interfaces (BCI)
+    - Neurofeedback
+    - Epilepsy signal processing (seizure diagnosis and seizure prediction)
+    - Processing signals related to sleep and anesthesia
+    - Delta, Theta, Alpha, Beta bands
+    - Diagnosis of various abnormalities and diseases (Alzheimer's, depression, Parkinson's, etc.)
+
+
+
+
+
+
+
+
+
+
+
 
