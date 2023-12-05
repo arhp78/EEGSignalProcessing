@@ -3,7 +3,7 @@
 
 
 - [HW1](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW1_prac):
-     - **Analyse Basic concept of EEG signal**:
+     - **Analyse the Basic concept of EEG signal**:
         - FFT, DFT, STFT, spectrogram, Windowing effect, down sampling
 - [HW2](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW2_Prac):
       - **Denoising EEG signal**:
@@ -21,7 +21,7 @@
     - Simulate a logistic model with different coefficients, Chaotic feature extraction
 - [HW6](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW6_Prac):
    - **Brain Source Localization**:
-    - MNE, WMNE & LORETA algorithms for brain source localization
+         - MNE, WMNE & LORETA algorithms for brain source localization
 
 ### This course contains the following topics:
 
