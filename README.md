@@ -10,26 +10,33 @@
 - [HW6](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW6_Prac): 
 
 ### This course contains the following topics:
-- **Combinatorial Optimization**:
-  - Linear programming and its applications (Multi-commodity flow problem)
-  - Mixed integer programming
-  - Approximation algorithms (LP relaxation, rounding methods)
-  - Set cover and Knapsack problem analysis
-- **Convex analysis and optimization**
-  - Convex set and convex functions
-  - Convex optimization
-  - Lagrange dual problem, KKT optimality conditions
-  - Gradient and subgradient methods to solve convex optimization problems
-- **Decomposition methods and distributed optimization**:
-  - Dual decomposition
-  - Primal decomposition
-  - Indirect decomposition
-  - Hierarchical decomposition
-  - Applications and use cases
-- **Optimization in communication networks** :
-    - Transmission Control Protocol (TCP)- Optimization-based congestion control
-    - Fairness in Resource Allocation Problems
-    - Generalized Network Utility Maximization
+
+- **Introduction**:
+  - brain signals, production, registration, and characteristics
+- **EEG signal processing**:
+  - Frequency bands
+  - Feature extraction: Canonical Correlation Analysis, Common Spatial Pattern
+- **Chaotic**:
+  - Lyapunov
+  - Entropy
+  - Fractal Dimension
+  - Correlation Dimension
+- ** Brain Connectivity** :
+    - Structural Connectivity
+    - Functional Connectivity:
+       - Correlation Coefficient
+       - Mutual Information
+       - Partial Mutual Information and …
+    - Effective Connectivity:
+        - Granger Causality Index
+        - Directed Transfer Function
+        - Partial Directed Coherence and …
+    -  Brain Graph connectivity:
+        - Feature Graph extraction:
+            - Clustering Coefficient
+            - Local Efficiency
+            - Centrality and …
+
 - **Stochastic and robust optimization**:
   - Optimization under uncertainty
   - Risk averse optimization
