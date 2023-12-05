@@ -2,19 +2,19 @@
 ## This repository includes all the practical assignments and the slides of the EEG Signal Processing graduate course.
 
 
-- [HW1](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW1_prac): Analyse Basic concept of EEG signal:
+- [HW1](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW1_prac): **Analyse Basic concept of EEG signal**:
     - FFT, DFT, STFT, spectrogram, Windowing effect, down sampling
-- [HW2]([https://github.com/arhp78/EEGSignalProcessing/tree/main/HW2_Prac]): Denoising EEG signal:
+- [HW2]([https://github.com/arhp78/EEGSignalProcessing/tree/main/HW2_Prac]): **Denoising EEG signal**:
     - PCA & ICA algorithms for denoising and removing artifacts.
-- [HW3](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW3_Prac): Blind and Semi-blind source separation :
+- [HW3](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW3_Prac): **Blind and Semi-blind source separation** :
     - DSS & GEVD algorithms for brain source separation. 
-- [HW4](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW4_Prac): Brain-Computer Interfaces(BCI):
+- [HW4](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW4_Prac): **Brain-Computer Interfaces(BCI)**:
       -  Extract features from Event-Related Potential(ERP) and steady State Evoked Potential(SSEP) experiments in BCI systems.
-    - EEG signal classification
+    - **EEG signal classification**:
       -  Using CSP feature for two-classes classification
-- [HW5](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW5_Prac): Chaotic:
+- [HW5](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW5_Prac): **Chaotic**:
     - Simulate a logistic model with different coefficients, Chaotic feature extraction
-- [HW6](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW6_Prac): Brain Source Localization:
+- [HW6](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW6_Prac): **Brain Source Localization**:
     - MNE, WMNE & LORETA algorithms for brain source localization
 
 ### This course contains the following topics:
