@@ -4,7 +4,7 @@
 
 - [HW1](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW1_prac): **Analyse Basic concept of EEG signal**:
     - FFT, DFT, STFT, spectrogram, Windowing effect, down sampling
-- [HW2]([https://github.com/arhp78/EEGSignalProcessing/tree/main/HW2_Prac]): **Denoising EEG signal**:
+- [HW2](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW2_Prac): **Denoising EEG signal**:
     - PCA & ICA algorithms for denoising and removing artifacts.
 - [HW3](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW3_Prac): **Blind and Semi-blind source separation** :
     - DSS & GEVD algorithms for brain source separation. 
