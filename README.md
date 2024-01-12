@@ -9,8 +9,8 @@
      - **Denoising EEG signal**:
           - PCA & ICA algorithms for denoising and removing artifacts.
 - [HW3](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW3_Prac):
-   -**Blind and Semi-blind source separation** :
-        - DSS & GEVD algorithms for brain source separation. 
+     - **Blind and Semi-blind source separation**:
+          - DSS & GEVD algorithms for brain source separation. 
 - [HW4](https://github.com/arhp78/EEGSignalProcessing/tree/main/HW4_Prac):
     - **Brain-Computer Interfaces(BCI)**:
       -  Extract features from Event-Related Potential(ERP) and steady State Evoked Potential(SSEP) experiments in BCI systems.
